@@ -6,7 +6,6 @@ const idApp = "ID_FRACTTAL";
 const secretKey = "SECRET_KEY_FRACTTAL";
 const host = "app.fracttal.com";
 
-
 const makeRandomString = (length) => {
   var result = "";
   var characters =
